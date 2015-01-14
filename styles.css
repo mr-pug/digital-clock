@@ -1,0 +1,10 @@
+.time {
+	display: inline;
+	font-family: Impact;
+	font-size: 100px;
+	float: left;
+}
+#am_pm {
+	font-size: 100px;
+	clear: left;
+}
